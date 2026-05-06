@@ -53,8 +53,8 @@ You control a spaceship navigating through waves of falling meteors. Avoid colli
 5. Play and enjoy!
 
 ## 📽️ Demo & Screenshots
+<img width="4096" height="3072" alt="IMG_20260319_160142" src="https://github.com/user-attachments/assets/259176af-ce60-4017-a035-f5085bff74c3" />
 
-*Coming soon!*
 
 ## 📋 License
 
